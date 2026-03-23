@@ -4,7 +4,8 @@ I am a Backend Java Developer with hands on training and internship experience i
 
 Currently seeking an entry level Backend Java Developer role where I can continue learning and contribute to backend development tasks.
 
----
+--- 
+
 
 ## 🌐 Socials
 
