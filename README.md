@@ -1,5 +1,5 @@
 # 💫 About Me  
-das
+
 I am a Backend Java Developer with hands on training and internship experience in Java, Spring Boot, SQL, and basic React. I have worked on backend modules, REST API development, and database integration while building and deploying web applications. I enjoy writing clean backend logic and understanding how real world systems work from request to database.
 
 Currently seeking an entry level Backend Java Developer role where I can continue learning and contribute to backend development tasks.
